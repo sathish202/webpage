@@ -15,6 +15,3 @@ def home():
 
 if __name__=='__main__':
    app.run()
-
-#Testing
-# 1234
